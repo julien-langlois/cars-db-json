@@ -1,0 +1,16 @@
+{
+  "Manufacturer": {
+    "title": "string",
+    "creationDate": "date",
+    "published": "boolean",
+    "createdAt": "date",
+    "updatedAt": "date",
+  },
+  "Model": {
+    "title": "string",
+    "production": "date",
+    "published": "boolean",
+    "createdAt": "date",
+    "updatedAt": "date",
+  }
+}
